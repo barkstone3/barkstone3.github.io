@@ -56,7 +56,7 @@ function MarkdownContent() {
                          dangerouslySetInnerHTML={{__html: innerHtml.content}}>
                     </div>
                     <script src="https://utteranc.es/client.js"
-                            repo="barkstone3/barkstone3.github.io.git"
+                            repo="barkstone3/barkstone3.github.io"
                             issue-term="pathname"
                             theme="github-light"
                             crossOrigin="anonymous"
