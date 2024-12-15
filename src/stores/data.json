@@ -1,0 +1,9 @@
+{
+  "sourceDir": "/",
+  "repositoryUrl": "git@github.com:barkstone3/barkstone3.github.io.git",
+  "isActivated": true,
+  "version": "0.0.5",
+  "isEnableComments": true,
+  "repo": "barkstone3/barkstone3.github.io",
+  "theme": "github-dark"
+}
