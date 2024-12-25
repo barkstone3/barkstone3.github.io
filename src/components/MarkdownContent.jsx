@@ -52,16 +52,8 @@ function MarkdownContent() {
                   <div
                     className="markdown-preview-view markdown-rendered node-insert-event is-readable-line-width allow-fold-headings show-indentation-guide allow-fold-lists show-properties"
                     tabIndex="-1" style={{tabSize: 4}}>
-                    <div className="markdown-preview-sizer markdown-preview-section"
-                         dangerouslySetInnerHTML={{__html: innerHtml.content}}>
+                    <div className="markdown-preview-sizer markdown-preview-section" dangerouslySetInnerHTML={{__html: innerHtml.content}}>
                     </div>
-                    <script src="https://utteranc.es/client.js"
-                            repo="barkstone3/barkstone3.github.io"
-                            issue-term="pathname"
-                            theme="github-light"
-                            crossOrigin="anonymous"
-                            async>
-                    </script>
                   </div>
                 </div>
               </div>
